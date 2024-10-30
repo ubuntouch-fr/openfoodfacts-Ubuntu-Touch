@@ -60,7 +60,7 @@ clickable.json
 }
 ```
 # Official Documentation of the Open Food Facts API
-The official documentation for API : https://en.wiki.openfoodfacts.org/Project:API
+The official documentation for API : https://openfoodfacts.github.io/openfoodfacts-server/api/
 
 # Help translate the app 
 You can help translate Open Food Facts and the app at (no technical knowledge required, takes a minute to signup): 
